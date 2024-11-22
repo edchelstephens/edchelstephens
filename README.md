@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 - **React** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
 - **AngularJS** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
 - **HTML** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10) 
-- **Bootstrap** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)    
+- **Bootstrap** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (6/10)    
 - **CSS** ⭐⭐⭐⭐⭐☆☆☆☆☆ (5/10)  
 
 
