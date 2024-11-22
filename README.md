@@ -73,7 +73,9 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 
 ## 📊 Contributions Overview
 
-![GitHub Contributions Graph](https://activity-graph.herokuapp.com/graph?username=edchelnini&theme=github)
+![GitHub Streak Stats](https://streak-stats.demolab.com/?user=edchelstephens&theme=radical)
+
+![GitHub Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=edchelstephens&theme=github)
 
 ---
 
@@ -101,8 +103,8 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 
 - **Location:** Cagayan De Oro City, Philippines  
 - **Email:** edchelstephens@gmail.com  
-- **GitHub:** [github.com/edchelnini](https://github.com/edchelnini)  
-- **LinkedIn:** [linkedin.com/in/edchelnini](https://linkedin.com/in/edchelnini)  
+- **GitHub:** [github.com/edchelstephens](https://github.com/edchelstephens)  
+- **LinkedIn:** [linkedin.com/in/edchelstephens](https://linkedin.com/in/edchelstephens)  
 
 ---
 
