@@ -63,11 +63,13 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 ## 🌟 Featured Projects
 
 ### **Highlighted Work from My Portfolio**
+- **[Pruuv](https://pruuv.com/):** Senior Python Django developer and project manager for a marketing analytics tool.  
+- **[SportsDash](https://sportsdash.com.au/):** Developed a sports management system for schools in Australia. 
+- **[EvolvePrime](https://www.evolveprime.com/):** Designed a desktop app for image processing with AWS S3 integration. 
 - **[DOLO](https://www.yahshuadolo.com/):** Lead developer of a full-stack learning management system.  
 - **[Yahshua Payroll](https://yahshuapayrollonline.com/):** Lead test engineer and code reviewer for a payroll management application.  
-- **[SportsDash](https://sportsdash.com.au/):** Developed a sports management system for schools in Australia.  
-- **[EvolvePrime](https://www.evolveprime.com/):** Designed a desktop app for image processing with AWS S3 integration.  
-- **[Pruuv](https://pruuv.com/):** Senior Python Django developer and project manager for a marketing analytics tool.  
+ 
+ 
 
 ---
 
