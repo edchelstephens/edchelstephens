@@ -31,6 +31,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 ## 🏆 Professional Experience
 
 ### **Pruuv.com** (May 2024 - Present)  
+![Pruuv](https://www.pruuv.com/res/images/plogo.svg)  
 **Tech Lead | Senior Python/Django Software Engineer | DevOps Engineer | Snowflake Data Analyst**  
 - Led the development of scalable CRM systems for marketing analytics.  
 - Designed and optimized Snowflake data pipelines and analytics queries.  
@@ -40,6 +41,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 ---
 
 ### **SportsDash** (Mar 2024 - Nov 2024)  
+![SportsDash](https://sportsdash.com.au/static/img/SportsDash.png)  
 **Technical Support Specialist | Software Developer**  
 - Contributed to the development of sports management and game fixture generation systems.  
 - Assisted in troubleshooting dynamic applications and providing user support.  
@@ -47,6 +49,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 ---
 
 ### **Yeoki** (Aug 2022 - Nov 2023)  
+![Yeoki](https://media.licdn.com/dms/image/v2/C4E0BAQGSEs7BEPNA_Q/company-logo_200_200/company-logo_200_200/0/1660041344669/yeoki_2_logo?e=1732147200&v=beta&t=65NFgXk5RYn9EhrUQEfZmxGHU17WxYxzNqkxwvg1aiw)  
 **Senior Software Engineer**  
 - Developed pre-accounting software with third-party API integrations.  
 - Implemented modular, scalable solutions using Python and Django.  
@@ -60,26 +63,36 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 
 ---
 
+### **Freelance WordPress Web Developer** (Jun 2019 - Feb 2020)  
+![OnlineJobs](https://upload.wikimedia.org/wikipedia/commons/4/4e/WordPress_logo.svg)  
+**Freelance Developer at OnlineJobs.PH**  
+- Built and maintained WordPress full-stack applications.  
+- Integrated third-party apps and managed back-end servers.  
+- Delivered responsive websites using the **Divi** theme on platforms like LiquidWeb and SiteGround.  
+
+---
+
+## 🌟 Featured Projects
+
+### **Highlighted Work from My Portfolio**
 ## 🌟 Featured Projects
 
 ### **Highlighted Work from My Portfolio**
 - **[Pruuv](https://pruuv.com/):** Senior Python Django developer and project manager for a marketing analytics tool.  
-- **[SportsDash](https://sportsdash.com.au/):** Developed a sports management system for schools in Australia. 
-- **[EvolvePrime](https://www.evolveprime.com/):** Designed a desktop app for image processing with AWS S3 integration. 
-- **[DOLO](https://www.yahshuadolo.com/):** Lead developer of a full-stack learning management system.  
+- **[EvolvePrime](https://www.evolveprime.com/):** Designed a desktop app for image processing with AWS S3 integration.  
+- **[SportsDash](https://sportsdash.com.au/):** Developed a sports management system for schools in Australia.  
 - **[Yahshua Payroll](https://yahshuapayrollonline.com/):** Lead test engineer and code reviewer for a payroll management application.  
- 
- 
+- **[DOLO](https://www.yahshuadolo.com/):** Lead developer of a full-stack learning management system.  
+- **[Content Maximiser](https://contentmaximiser.com/):** Developed and maintained WordPress-based websites and optimized content for enhanced engagement.  
+- **[Bella Institute](https://bellainstitute.com/):** Built and managed WordPress full-stack websites with Divi theme customization and back-end optimizations.  
 
 ---
 
 ## 📊 Contributions Overview
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=edchelstephens&show_icons=true&theme=radical)
-
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=edchelstephens&theme=radical)
 
-
+![GitHub Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=edchelstephens&theme=github)
 
 ---
 
@@ -112,7 +125,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 
 ---
 
-## 📖 Key Verse
+## 📖 About Wisdom
 
 *"If any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him."*  
 — **James 1:5 NKJV**
