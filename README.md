@@ -73,9 +73,11 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 
 ## 📊 Contributions Overview
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=edchelstephens&show_icons=true&theme=radical)
+
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=edchelstephens&theme=radical)
 
-![GitHub Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=edchelstephens&theme=github)
+
 
 ---
 
