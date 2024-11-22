@@ -65,8 +65,8 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 - **[EvolvePrime](https://www.evolveprime.com/):** Designed a desktop app for image processing with AWS S3 integration.
 - **[Yahshua Payroll](https://yahshuapayrollonline.com/):** Lead test engineer and code reviewer for a payroll management application.  
 - **[DOLO](https://www.yahshuadolo.com/):** Lead developer of a full-stack learning management system.  
-- **[Content Maximiser](https://contentmaximiser.com/):** Developed and maintained WordPress-based websites and optimized content for enhanced engagement.  
-- **[Bella Institute](https://bellainstitute.com/):** Built and managed WordPress full-stack websites with Divi theme customization and back-end optimizations.  
+- **[Content Maximiser](https://contentmaximiser.com/):** Developed and maintained WordPress-based websites and optimized content for enhanced engagement with Divi theme.  
+- **[Bella Institute](https://bellainstitute.com/):** Built and managed WordPress full-stack website for beauty salon with customization and back-end optimizations.  
 
 
 ---
