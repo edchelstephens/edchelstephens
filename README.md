@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 
 ## 🏆 Professional Experience
 
-### **[Pruuv.com](pruuv.com)** (May 2024 - Present)  
+### **[pruuv.com](https://pruuv.com)** (May 2024 - Present)  
 **Tech Lead | Senior Python/Django Software Engineer | DevOps Engineer | Snowflake Data Analyst**  
 - Led the development of scalable CRM systems for marketing analytics.  
 - Designed and optimized Snowflake data pipelines and analytics queries.  
