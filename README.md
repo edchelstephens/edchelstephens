@@ -36,7 +36,8 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 
 ### **Devops**  
 - **DevOps** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
-- **AWS** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
+- **AWS** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10) 
+- **GCP** ⭐⭐⭐⭐⭐☆☆☆☆☆ (5/10) 
 
 
 ### **Data Analytics**  
