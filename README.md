@@ -1,14 +1,15 @@
-# 👋 Hi there, I'm Edchel Stephen!
+# 👋 Hi there, I'm Edchel Stephen Nini!
 
-Welcome to my GitHub profile! I'm a **Technical Lead**, **Senior Python/Django Developer**, and **DevOps Engineer** passionate about building scalable, efficient, and user-friendly applications. I thrive on solving complex problems and mentoring teams to achieve excellence in software development.
+Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Software Engineer**, **DevOps Engineer**, and **Snowflake Data Analyst**. With a solid background in full-stack development, cloud infrastructure, and data analytics, I am passionate about building robust, efficient, and scalable solutions.
 
 ---
 
 ## 🚀 About Me
 
-- 🧑‍💻 **Current Role:** Technical Lead and Senior Software Engineer at [Pruuv.com](https://pruuv.com)  
-- 🌍 **Location:** United Kingdom (Remote)  
-- 🎯 **Passions:** Problem-solving, cloud infrastructure, and driving impactful solutions.
+- 🧑‍💻 **Current Role:** Tech Lead, Senior Python/Django Software Engineer, DevOps Engineer, and Snowflake Data Analyst at [Pruuv.com](https://pruuv.com).  
+- 🌍 **Location:** Cagayan De Oro City, Mindanao, Philippines (Remote).  
+- 🎯 **Expertise:** Python, Django, Snowflake, AWS, DevOps, and Full-Stack Development.  
+- 💡 **Passions:** Solving complex problems, implementing clean code practices, and delivering high-quality software solutions.  
 
 ---
 
@@ -30,53 +31,82 @@ Welcome to my GitHub profile! I'm a **Technical Lead**, **Senior Python/Django D
 ## 🏆 Professional Experience
 
 ### **Pruuv.com** (May 2024 - Present)  
-**Technical Lead | Senior Python/Django Software Engineer | DevOps Engineer**  
-- Leading the development of scalable software solutions.  
-- Performing Snowflake data analysis and optimizing AWS infrastructure.  
-- Managing a cross-functional team of developers and designers.  
+**Tech Lead | Senior Python/Django Software Engineer | DevOps Engineer | Snowflake Data Analyst**  
+- Led the development of scalable CRM systems for marketing analytics.  
+- Designed and optimized Snowflake data pipelines and analytics queries.  
+- Deployed and maintained applications on AWS using EC2, S3, Route 53, and more.  
+- Managed a cross-functional team of developers, analysts, and designers.  
 
 ---
 
 ### **SportsDash** (Mar 2024 - Nov 2024)  
 **Technical Support Specialist | Software Developer**  
-- Provided technical support for dynamic applications.  
-- Contributed to Python and Django development.  
+- Contributed to the development of sports management and game fixture generation systems.  
+- Assisted in troubleshooting dynamic applications and providing user support.  
 
 ---
 
 ### **Yeoki** (Aug 2022 - Nov 2023)  
 **Senior Software Engineer**  
-- Full-stack development and 3rd-party API integrations.  
-- Built modular, scalable applications using Python and Django.  
+- Developed pre-accounting software with third-party API integrations.  
+- Implemented modular, scalable solutions using Python and Django.  
 
 ---
 
-## 🌟 GitHub Stats
-
-![Edchel's GitHub stats](https://github-readme-stats.vercel.app/api?username=edchelstephens&show_icons=true&theme=radical)
-
----
-
-## 📊 Contributions Overview
-
-![Edchel's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=edchelstephens&theme=radical)
+### **YAHSHUA Outsourcing Worldwide, Inc.** (Jan 2021 - Mar 2022)  
+**Software Engineer | I.T. Research & Training Officer**  
+- Built LMS and payroll applications using Django, PostgreSQL, and React.js.  
+- Delivered end-to-end development with a focus on test-driven development and clean code practices.  
 
 ---
 
 ## 🌟 Featured Projects
 
-- **[Pruuv](https://github.com/your-repo)**: Scalable Sales Funnel Marketing Analytics system powered by Django and Snowflake.  
-- **[Image Processing Automation](https://github.com/your-repo)**: Python-based GUI app with AWS S3 integration.  
-- **[Custom LMS](https://github.com/your-repo)**: End-to-end learning management system for educational institutions.  
+### **Highlighted Work from My Portfolio**
+- **[DOLO](https://www.yahshuadolo.com/):** Lead developer of a full-stack learning management system.  
+- **[Yahshua Payroll](https://yahshuapayrollonline.com/):** Lead test engineer and code reviewer for a payroll management application.  
+- **[SportsDash](https://sportsdash.com.au/):** Developed a sports management system for schools in Australia.  
+- **[EvolvePrime](https://www.evolveprime.com/):** Designed a desktop app for image processing with AWS S3 integration.  
+- **[Pruuv](https://pruuv.com/):** Senior Python Django developer and project manager for a marketing analytics tool.  
 
 ---
 
-## 📫 Let's Connect!
+## 📊 Contributions Overview
 
+![GitHub Contributions Graph](https://activity-graph.herokuapp.com/graph?username=edchelnini&theme=github)
+
+---
+
+## 🛠️ Technology Stack
+
+### **Back-End Development**  
+- **Languages & Frameworks:** Python, Django, Django REST Framework.  
+- **Database Systems:** PostgreSQL, Snowflake.  
+- **API Development:** REST APIs, 3rd-Party Integrations.  
+
+### **Front-End Development**  
+- **Languages & Frameworks:** JavaScript, AngularJS, React.js, HTMX, Bootstrap.  
+
+### **DevOps & Cloud**  
+- **Platforms:** AWS (EC2, S3, RDS, SES, Route 53, Elastic Beanstalk), Google Cloud Platform (OAuth, Social Logins).  
+- **Tools:** Docker, Ansible, CI/CD pipelines, Nginx, uWSGI, Celery, Redis.  
+
+### **Additional Expertise**  
+- **Cybersecurity:** Developed with security in mind, including encryption and safe coding practices.  
+- **Email Deliverability:** Expertise with AWS Workmail, SES, SendGrid, and email authentication protocols like SPF, DKIM, DMARC, and BIMI.
+
+---
+
+## 📫 Contact Me
+
+- **Location:** Cagayan De Oro City, Philippines  
+- **Email:** edchelstephens@gmail.com  
 - **GitHub:** [github.com/edchelnini](https://github.com/edchelnini)  
 - **LinkedIn:** [linkedin.com/in/edchelnini](https://linkedin.com/in/edchelnini)  
-- **Website/Portfolio:** [edchelnini.dev](https://edchelnini.dev)  
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate.
+## 📖 Key Verse
+
+*"If any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him."*  
+— **James 1:5 NKJV**
