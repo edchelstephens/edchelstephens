@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 
 ### **Core Skills**  
 
-#### **Backend**  
+### **Backend**  
 - **Python** ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (10/10)  
 - **Django** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)  
 - **API Development and Management** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10) 
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 - **SQL** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10) 
 
 
-#### **Frontend** 
+### **Frontend** 
 - **JavaScript** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
 - **React** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
 - **AngularJS** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
@@ -34,14 +34,12 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 - **CSS** ⭐⭐⭐⭐⭐☆☆☆☆☆ (5/10)  
 
 
-
-
-#### **Devops**  
+### **Devops**  
 - **DevOps** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
 - **AWS** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
 
 
-#### **Data Analytics**  
+### **Data Analytics**  
 - **Snowflake** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
 
 ---
