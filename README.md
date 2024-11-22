@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 ## 🏆 Professional Experience
 
 ### **Pruuv.com** (May 2024 - Present)  
-![Pruuv](https://www.pruuv.com/res/images/plogo.svg)  
+<img src="https://www.pruuv.com/res/images/plogo.svg" alt="Pruuv Logo" width="60" style="border-radius:50%;"/>  
 **Tech Lead | Senior Python/Django Software Engineer | DevOps Engineer | Snowflake Data Analyst**  
 - Led the development of scalable CRM systems for marketing analytics.  
 - Designed and optimized Snowflake data pipelines and analytics queries.  
@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 ---
 
 ### **SportsDash** (Mar 2024 - Nov 2024)  
-![SportsDash](https://sportsdash.com.au/static/img/SportsDash.png)  
+<img src="https://sportsdash.com.au/static/img/SportsDash.png" alt="SportsDash Logo" width="60" style="border-radius:50%;"/>  
 **Technical Support Specialist | Software Developer**  
 - Contributed to the development of sports management and game fixture generation systems.  
 - Assisted in troubleshooting dynamic applications and providing user support.  
@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 ---
 
 ### **Yeoki** (Aug 2022 - Nov 2023)  
-![Yeoki](https://media.licdn.com/dms/image/v2/C4E0BAQGSEs7BEPNA_Q/company-logo_200_200/company-logo_200_200/0/1660041344669/yeoki_2_logo?e=1732147200&v=beta&t=65NFgXk5RYn9EhrUQEfZmxGHU17WxYxzNqkxwvg1aiw)  
+<img src="https://media.licdn.com/dms/image/v2/C4E0BAQGSEs7BEPNA_Q/company-logo_200_200/company-logo_200_200/0/1660041344669/yeoki_2_logo?e=1732147200&v=beta&t=65NFgXk5RYn9EhrUQEfZmxGHU17WxYxzNqkxwvg1aiw" alt="Yeoki Logo" width="60" style="border-radius:50%;"/>  
 **Senior Software Engineer**  
 - Developed pre-accounting software with third-party API integrations.  
 - Implemented modular, scalable solutions using Python and Django.  
@@ -57,6 +57,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 ---
 
 ### **YAHSHUA Outsourcing Worldwide, Inc.** (Jan 2021 - Mar 2022)  
+<img src="https://yahshuadolo.com/static_cdn/img/owlex.png" alt="DOLO Logo" width="60" style="border-radius:50%;"/>  
 **Software Engineer | I.T. Research & Training Officer**  
 - Built LMS and payroll applications using Django, PostgreSQL, and React.js.  
 - Delivered end-to-end development with a focus on test-driven development and clean code practices.  
@@ -64,17 +65,14 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 ---
 
 ### **Freelance WordPress Web Developer** (Jun 2019 - Feb 2020)  
-![OnlineJobs](https://upload.wikimedia.org/wikipedia/commons/4/4e/WordPress_logo.svg)  
-**Freelance Developer at OnlineJobs.PH**  
-- Built and maintained WordPress full-stack applications.  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/WordPress_logo.svg" alt="WordPress Logo" width="60" style="border-radius:50%;"/>  
+**Freelance Developer**  
+- Built and maintained WordPress full-stack applications for **[Content Maximiser](https://contentmaximiser.com/)** and **[Bella Institute](https://bellainstitute.com/)**.  
 - Integrated third-party apps and managed back-end servers.  
 - Delivered responsive websites using the **Divi** theme on platforms like LiquidWeb and SiteGround.  
 
 ---
 
-## 🌟 Featured Projects
-
-### **Highlighted Work from My Portfolio**
 ## 🌟 Featured Projects
 
 ### **Highlighted Work from My Portfolio**
