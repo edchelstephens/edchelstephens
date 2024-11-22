@@ -40,19 +40,17 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 ### **DevOps**  
 - **DevOps** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
 - **Docker** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
-- **AWS** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (7/10)  
+- **AWS** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
 - **GCP** ⭐⭐⭐⭐⭐☆☆☆☆☆ (5/10)  
 - **DigitalOcean** ⭐⭐⭐⭐⭐☆☆☆☆☆ (5/10)  
 - **Heroku** ⭐⭐⭐⭐⭐☆☆☆☆☆ (5/10)  
 
 ### **AWS Specific**
-
-- **AWS Lambda** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (8/10)  
-- **AWS Lambda** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (8/10)  
-- **AWS Lambda** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (8/10)  
-- **Amazon EC2** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (8/10)  
-- **Amazon S3** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (8/10)  
-- **AWS IAM (Identity and Access Management)** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (8/10)  
+ 
+- **AWS Lambda** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
+- **Amazon EC2** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10) 
+- **Amazon S3** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
+- **AWS IAM (Identity and Access Management)** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
 - **Amazon RDS** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
 - **Amazon VPC (Virtual Private Cloud)** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
 - **Amazon SQS (Simple Queue Service)** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
@@ -79,7 +77,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 - **Clean Code** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)  
 - **Unit Testing in Python** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)  
 
-### **Managerial**  
+### **Management**  
 - **Team Lead and Management** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)  
 - **Communication** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)  
 
