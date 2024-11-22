@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 
 ## 🚀 About Me
 
-- 🧑‍💻 **Current Role:** Tech Lead, Senior Python/Django Software Engineer, DevOps Engineer, and Snowflake Data Analyst at [Pruuv.com](https://pruuv.com).  
+- 🧑‍💻 **Current Role:** Tech Lead, Senior Python/Django Software Engineer, DevOps Engineer, and Snowflake Data Analyst at [pruuv.com](https://pruuv.com).  
 - 🌍 **Location:** Cagayan De Oro City, Mindanao, Philippines (Remote).  
 - 🎯 **Expertise:** Python, Django, Snowflake, AWS, DevOps, and Full-Stack Development.  
 - 💡 **Passions:** Solving complex problems, implementing clean code practices, and delivering high-quality software solutions.  
@@ -71,7 +71,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 ## 🌟 Featured Projects
 
 ### **Highlighted Work from My Portfolio**
-- **[Pruuv](https://pruuv.com/):** Senior Python Django developer and project manager for a marketing analytics tool.  
+- **[Pruuv](https://pruuv.com/):** Tech Lead, Senior Python/Django Software Engineer, DevOps Engineer, and Snowflake Data Analyst for a marketing analytics tool.  
 - **[EvolvePrime](https://www.evolveprime.com/):** Designed a desktop app for image processing with AWS S3 integration.  
 - **[SportsDash](https://sportsdash.com.au/):** Developed a sports management system for schools in Australia.  
 - **[Yahshua Payroll](https://yahshuapayrollonline.com/):** Lead test engineer and code reviewer for a payroll management application.  
@@ -83,9 +83,12 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 
 ## 📊 Contributions Overview
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=edchelstephens&show_icons=true&theme=radical)
+
+
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=edchelstephens&theme=radical)
 
-![GitHub Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=edchelstephens&theme=github)
 
 ---
 
