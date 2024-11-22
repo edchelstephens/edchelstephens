@@ -103,7 +103,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 
 ---
 
-### **[Yeoki/Gem Logic]()** (Aug 2022 - Nov 2023)  
+### **[Yeoki/Gem Logic](https://www.gem-logic.com/)** (Aug 2022 - Nov 2023)  
 **Senior Software Engineer**  
 - Developed pre-accounting software with third-party API integrations.  
 - Developed jewelry business software with third-party API integrations(Bank and Stripe apis).  
@@ -130,8 +130,9 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 
 ### **Highlighted Work from My Portfolio**
 - **[Pruuv](https://pruuv.com/):** Tech Lead, Senior Python/Django Software Engineer, DevOps Engineer, and Snowflake Data Analyst for a marketing analytics tool.  
-- **[EvolvePrime](https://www.evolveprime.com/):** Designed a desktop app for image processing with AWS S3 integration.  
-- **[SportsDash](https://sportsdash.com.au/):** Developed a sports management system for schools in Australia.  
+- **[SportsDash](https://sportsdash.com.au/):** Developed a sports management system for schools in Australia. 
+- **[Yeoki/Gem Logic](https://www.gem-logic.com/)** Developed pre-accounting and jewelry business software with third-party API integrations (Bank and Stripe apis). 
+- **[EvolvePrime](https://www.evolveprime.com/):** Designed a desktop app for image processing with AWS S3 integration.
 - **[Yahshua Payroll](https://yahshuapayrollonline.com/):** Lead test engineer and code reviewer for a payroll management application.  
 - **[DOLO](https://www.yahshuadolo.com/):** Lead developer of a full-stack learning management system.  
 - **[Content Maximiser](https://contentmaximiser.com/):** Developed and maintained WordPress-based websites and optimized content for enhanced engagement.  
