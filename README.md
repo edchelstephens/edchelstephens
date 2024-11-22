@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 - Assisted in troubleshooting dynamic application and providing user support.
 
 
--- 
+---
 
 ### **[Yeoki/Gem Logic (Part Time)](https://www.gem-logic.com/)** (Aug 2022 - Nov 2023)  
 **Senior Software Engineer**  
@@ -39,13 +39,13 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 - Developed jewelry business software with third-party API integrations(Bank and Stripe apis).  
 - Implemented modular, scalable solutions using Python and Django.  
 
--- 
+---
 
 ### **[EvolvePrime:  (Part Time)](https://evolveprime.com/)** (Aug 2022 - Nov 2023)  
 **Lead Software Engineer**  
 - Designed a desktop app for image processing with AWS S3 integration and using AI enhancement
 
---
+---
 
 ### **[SportsDash](https://sportsdash.com.au/)** (Mar 2022 - March 2024)  
 **Lead Software Engineer**  
