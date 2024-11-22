@@ -20,68 +20,69 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 ### **Backend**  
 - **Python** ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (10/10)  
 - **Django** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)  
-- **API Development and Management** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10) 
-- **3rd Party API Integrations** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)
-- **SQL** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10) 
-
+- **API Development and Management** ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (10/10)  
+- **3rd Party API Integrations** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)  
+- **SQL** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
 
 ### **Data Analytics**  
 - **Snowflake** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
-- **ETL(Extract, Transform, Load)** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10) 
-- **Data Pipelining and Engineering** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)   
+- **ETL (Extract, Transform, Load)** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
+- **Data Pipelining and Engineering** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
 
 ### **Frontend** 
 - **JavaScript** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
 - **React** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
 - **AngularJS** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
-- **HTML** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10) 
-- **Bootstrap** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (6/10)    
+- **HTML** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
+- **Bootstrap** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
 - **CSS** ⭐⭐⭐⭐⭐☆☆☆☆☆ (5/10)  
 
-
-### **Devops**  
-- **DevOps** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
-- **Docker** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10) 
-- **AWS** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10) 
-- **GCP** ⭐⭐⭐⭐⭐☆☆☆☆☆ (5/10)
-- **DigitalOcean** ⭐⭐⭐⭐⭐☆☆☆☆☆ (4/10)  
-- **Heroku** ⭐⭐⭐⭐⭐☆☆☆☆☆ (4/10)
+### **DevOps**  
+- **DevOps** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
+- **Docker** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
+- **AWS** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (7/10)  
+- **GCP** ⭐⭐⭐⭐⭐☆☆☆☆☆ (5/10)  
+- **DigitalOcean** ⭐⭐⭐⭐⭐☆☆☆☆☆ (5/10)  
+- **Heroku** ⭐⭐⭐⭐⭐☆☆☆☆☆ (5/10)  
 
 ### **AWS Specific**
 
-- **AWS Lambda** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)
-- **Amazon EC2** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)
-- **Amazon S3** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)
-- **AWS IAM (Identity and Access Management)** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)
-- **Amazon RDS** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)
-- **Amazon VPC (Virtual Private Cloud)** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)
-- **Amazon SQS (Simple Queue Service)** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)
-- **Amazon SNS (Simple Notification Service)** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)
-- **AWS Route 53** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)
-- **Amazon CloudWatch** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)
-- **AWS Elastic Beanstalk** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)
-- **Elastic Load Balancing (ELB)** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)
-- **AWS CloudFront** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)
-- **Amazon EventBridge** ⭐⭐⭐⭐⭐⭐☆☆☆☆ (6/10)
+- **AWS Lambda** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (8/10)  
+- **AWS Lambda** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (8/10)  
+- **AWS Lambda** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (8/10)  
+- **Amazon EC2** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (8/10)  
+- **Amazon S3** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (8/10)  
+- **AWS IAM (Identity and Access Management)** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (8/10)  
+- **Amazon RDS** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
+- **Amazon VPC (Virtual Private Cloud)** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
+- **Amazon SQS (Simple Queue Service)** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
+- **Amazon SNS (Simple Notification Service)** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
+- **AWS Route 53** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (7/10)  
+- **Amazon CloudWatch** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
+- **AWS Elastic Beanstalk** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
+- **AWS CloudFront** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
+- **Elastic Load Balancing (ELB)** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (6/10)  
+- **Amazon EventBridge** ⭐⭐⭐⭐⭐⭐☆☆☆☆ (6/10)  
 
 ### **Automation**  
-- **Github Actions** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10) 
-- **Ansible** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (7/10) 
-- **Shell Scripting** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (7/10)
+- **GitHub Actions** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
+- **Ansible** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
+- **Shell Scripting** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
 
 ### **Unit Testing**  
-- **coverage** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10) 
-- **pytest** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10) 
-- **selenium** ⭐⭐⭐⭐⭐☆☆☆☆☆ (5/10)
-- **jest** ⭐⭐⭐⭐⭐☆☆☆☆☆ (5/10)
+- **coverage** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
+- **pytest** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
+- **selenium** ⭐⭐⭐⭐⭐☆☆☆☆☆ (5/10)  
+- **jest** ⭐⭐⭐⭐⭐☆☆☆☆☆ (5/10)  
 
-### **Training**
-- Clean Code  ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (10/10)
-- Unit Testing in Python  ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)
+### **Training**  
+- **Clean Code** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)  
+- **Unit Testing in Python** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)  
 
-### **Managerial**
-- Team Lead and Management  ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)
-- Communication  ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)
+### **Managerial**  
+- **Team Lead and Management** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)  
+- **Communication** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)  
+
 
 ---
 
