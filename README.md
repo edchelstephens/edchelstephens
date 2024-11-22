@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 
 
 -- 
+
 ### **[Yeoki/Gem Logic (Part Time)](https://www.gem-logic.com/)** (Aug 2022 - Nov 2023)  
 **Senior Software Engineer**  
 - Developed pre-accounting software with third-party API integrations.  
@@ -39,6 +40,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 - Implemented modular, scalable solutions using Python and Django.  
 
 -- 
+
 ### **[EvolvePrime:  (Part Time)](https://evolveprime.com/)** (Aug 2022 - Nov 2023)  
 **Lead Software Engineer**  
 - Designed a desktop app for image processing with AWS S3 integration and using AI enhancement
