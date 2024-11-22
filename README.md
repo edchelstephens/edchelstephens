@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Edchel Stephen Nini!
 
-Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Software Engineer**, **DevOps Engineer**, and **Snowflake Data Analyst**. With a solid background in full-stack development, cloud infrastructure, and data analytics, I am passionate about building robust, efficient, and scalable solutions.
+Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Software Engineer**, **DevOps Engineer**, **Snowflake Data Analyst** and **Team Manager**. With a solid background in full-stack development, cloud infrastructure, and data analytics, I am passionate about building robust, efficient, and scalable solutions.
 
 ---
 
