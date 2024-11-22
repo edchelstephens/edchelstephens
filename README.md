@@ -27,9 +27,8 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 ---
 
 ### **[SportsDash (Part Time)](https://sportsdash.com.au/)** (Mar 2024 - Sept 2024)  
-**Lead Software Engineer**  
-- Lead Software Engineer to the development of sports management and game fixture generation systems.  
-- Assisted in troubleshooting dynamic applications and providing user support.
+**Technical Support**   
+- Assisted in troubleshooting dynamic application and providing user support.
 
 
 -- 
