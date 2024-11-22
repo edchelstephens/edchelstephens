@@ -25,6 +25,11 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 - **SQL** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10) 
 
 
+### **Data Analytics**  
+- **Snowflake** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
+- **ETL(Extract, Transform, Load)** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10) 
+- **Data Pipelining and Engineering** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)   
+
 ### **Frontend** 
 - **JavaScript** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
 - **React** ⭐⭐⭐⭐⭐⭐⭐☆☆☆ (7/10)  
@@ -42,8 +47,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 - **Heroku** ⭐⭐⭐⭐⭐☆☆☆☆☆ (4/10)
 
 
-### **Data Analytics**  
-- **Snowflake** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
+
 
 ---
 
