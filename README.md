@@ -180,7 +180,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 
 ---
 
-## 📖 About Wisdom
+## 📖 Go To Bible Verse
 
 *"If any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him."*  
 — **James 1:5 NKJV**
