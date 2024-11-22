@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 
 ## 🚀 About Me
 
-- 🧑‍💻 **Current Role:** Tech Lead, Senior Python/Django Software Engineer, DevOps Engineer, and Snowflake Data Analyst at [pruuv.com](https://pruuv.com).  
+- 🧑‍💻 **Current Role:** Tech Lead, Senior Python/Django Software Engineer, DevOps Engineer, Snowflake Data Analyst and Team Manager at [pruuv.com](https://pruuv.com).  
 - 🌍 **Location:** Cagayan De Oro City, Mindanao, Philippines (Remote).  
-- 🎯 **Expertise:** Python, Django, Snowflake, AWS, DevOps, and Full-Stack Development.  
+- 🎯 **Expertise:** Python, Django, Snowflake, AWS, DevOps, Full-Stack Development, Clean Code Training, Unit Testing Training and Team Management
 - 💡 **Passions:** Solving complex problems, implementing clean code practices, and delivering high-quality software solutions.  
 
 ---
@@ -16,12 +16,17 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 ## 🛠️ Skills & Ratings
 
 ### **Core Skills**  
-- **Python** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)  
-- **Django** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)  
-- **SQL** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)  
-- **JavaScript** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)  
 
-### **Additional Expertise**  
+#### **Software Development**  
+- **Python** ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (10/10)  
+- **Django** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)  
+- **API Development and Management** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10) 
+- **3rd Party API Integrations** ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)
+- **SQL** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
+- **JavaScript** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
+
+
+#### **Additional Expertise**  
 - **DevOps** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
 - **AWS** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
 - **Snowflake** ⭐⭐⭐⭐⭐⭐⭐⭐☆☆ (8/10)  
