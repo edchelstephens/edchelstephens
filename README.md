@@ -75,7 +75,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 - **selenium** ⭐⭐⭐⭐⭐☆☆☆☆☆ (5/10)
 - **jest** ⭐⭐⭐⭐⭐☆☆☆☆☆ (5/10)
 
-### **Instructor and Trainor**
+### **Training**
 - Clean Code  ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ (10/10)
 - Unit Testing in Python  ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ (9/10)
 
