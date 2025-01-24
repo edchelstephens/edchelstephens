@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 - 🧑‍💻 **Current Role:** Tech Lead, Senior Python/Django Software Engineer, DevOps Engineer, Snowflake Data Analyst, Tech Lead and Team Manager at [pruuv.com](https://pruuv.com).  
 - 🌍 **Location:** Cagayan De Oro City, Mindanao, Philippines (Remote).  
 - 🎯 **Expertise:** Python, Django, Snowflake, AWS, DevOps, Full-Stack Development, Clean Code Training, Unit Testing Training and Team Management
-- 💡 **Passions:** Solving complex problems, implementing clean code practices, and delivering high-quality software solutions.  
+- 💡 **Passions:** Solving complex problems, implementing clean code practices, and delivering high-quality, well tested software solutions.  
 
 
 
