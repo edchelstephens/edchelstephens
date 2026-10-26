@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 
 ## 🚀 About Me
 
-- 🧑‍💻 **Current Role:** Tech Lead, Senior Python/Django Software Engineer, DevOps Engineer, Snowflake Data Analyst, Tech Lead and Team Manager at [pruuv.com](https://pruuv.com).  
+- 🧑‍💻 **Current Role:** Senior Full Stack Developer at [PulseTheta](https://pulsetheta.com).  
 - 🌍 **Location:** Cagayan De Oro City, Mindanao, Philippines (Remote).  
 - 🎯 **Expertise:** Python, Django, Snowflake, AWS, DevOps, Full-Stack Development, Clean Code Training, Unit Testing Training and Team Management
 - 💡 **Passions:** Solving complex problems, implementing clean code practices, and delivering high-quality, well tested software solutions.  
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a **Tech Lead**, **Senior Python/Django Softw
 
 
 ### **[PulseTheta](https://pulsetheta.com)** (October 2026 - Present)  
-**Full Stack Developer**  
+**Senior Full Stack Developer**  
 - Senior Full Stack Developer for Stock Trading Options SASS
 
 
